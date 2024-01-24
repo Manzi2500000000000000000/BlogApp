@@ -3,7 +3,7 @@ import "./Post.css";
 // import Details from '../Details/Details';
 import Img from "./brabus.jpg";
 import ALTIS from "./Altis.png";
-import AUDI from "./audi.jpg";
+import AUDI from "./AUDI.jpg";
 // import "../Details/Details.css"
 
 
