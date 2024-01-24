@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import "./Post.css";
 // import Details from '../Details/Details';
 import Img from "./brabus.jpg";
-import ALTIS from "./altis.png";
+import ALTIS from "./Altis.png";
 import AUDI from "./audi.jpg";
 // import "../Details/Details.css"
 
